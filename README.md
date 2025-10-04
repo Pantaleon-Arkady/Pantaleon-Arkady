@@ -1,4 +1,4 @@
-# Hi, I'm Arkady 👋
+# Hey there, I'm Arkady 👋
 
 💻 Full-stack developer passionate about PHP, JavaScript, and React.  
 🌱 Currently learning AWS, Python and advanced backend development.  
